@@ -1,0 +1,11 @@
+# requirements.txt
+
+langgraph
+langchain
+langchain-openai
+langchain-community
+chromadb
+unstructured[pdf]
+pandas
+scikit-learn
+python-dotenv
